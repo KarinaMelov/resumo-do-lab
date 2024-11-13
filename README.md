@@ -9,7 +9,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 Com isso, conclui-se o resumo do curso até este momento.
 
 
-# resumo-do-lab 1
+# resumo-do-lab 2
 
   Neste laboratório aprendemos sobre o SLA. Os valores do SLA variam bastante sua disponibilidade, sendo que quanto mais proximo de 100 %, menos tempo inativo o serviço fica e mais caro o serviço pode ser. Sendo assim, deve-se definir bem o porque e pra que do serviço criado (teste, produção, etc), para que assim também possa ser definido o SLA utilizado no projeto. 
   Essa definição deve ser feita para que não haja problemas como por exemplo utilizar um SLA baixo, sendo que o serviço precisa ser o mais continuo possivel, ou até mesmo gastar muito com o SLA sendo que o mesmo seria utilizado somente para teste. Dessa forma, a analise inicial é de extrema importancia para a aquisição desse tipo de serviço. 
