@@ -13,3 +13,9 @@ Com isso, conclui-se o resumo do curso até este momento.
 
   Neste laboratório aprendemos sobre o SLA. Os valores do SLA variam bastante sua disponibilidade, sendo que quanto mais proximo de 100 %, menos tempo inativo o serviço fica e mais caro o serviço pode ser. Sendo assim, deve-se definir bem o porque e pra que do serviço criado (teste, produção, etc), para que assim também possa ser definido o SLA utilizado no projeto. 
   Essa definição deve ser feita para que não haja problemas como por exemplo utilizar um SLA baixo, sendo que o serviço precisa ser o mais continuo possivel, ou até mesmo gastar muito com o SLA sendo que o mesmo seria utilizado somente para teste. Dessa forma, a analise inicial é de extrema importancia para a aquisição desse tipo de serviço. 
+
+# resumo-do-lab 3 
+
+Para se fazer a criação de MV, precisamos ter cuidado e atenção com todos os detalhes. 
+Podemos selecionar a imagem a se usar, podemos ver antecipadamento o valor que seria cobrado de acordo com as configurações. Além disso, deve-se sempre antes de codificar, analisar a estratégia, quando usar determinada coisa e todos os outros itens com atenção. 
+Por fim, devemos também analisar com cuidado o modelo de serviço em computação em nuvem a ser adotado, para que a criação na nuvem seja feita da forma mais precisa possível. 
